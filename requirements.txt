@@ -1,0 +1,7 @@
+dhanhq
+django-admin
+django
+django-allauth
+python-dotenv
+channels==3.0.5
+websocket
