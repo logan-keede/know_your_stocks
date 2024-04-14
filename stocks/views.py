@@ -158,6 +158,7 @@ def place_buy_order(request):
                     return JsonResponse({"error":"some error occured"})
     else:
         return render(request, "order.html", {"form":TradingOrderForm})
+    
 @login_required(login_url="/accounts/google/login")
 def get_trade_book(request):
     if request.user.dhan_access == "blank" or request.user.dhan_client == "blank":  
