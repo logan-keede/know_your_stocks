@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Know Your Stocks
 
 ## Introduction
@@ -52,3 +53,6 @@ Know Your Stocks is a Python-based web application backend designed to provide u
 - Python
 - Django
 - HTML
+=======
+#know your stocks
+>>>>>>> 837123640734c9b350a4f3b13c896c6aca9cc7da
